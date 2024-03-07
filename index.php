@@ -8,5 +8,9 @@
 <body>
     <h1>nama saya</h1>
     <p>sari</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
