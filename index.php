@@ -6,7 +6,7 @@
     <title>coba git remote</title>
 </head>
 <body>
-    <h1>nama saya</h1>
+    <h1>hello say</h1>
     <p>sari</p>
     <ul>
         <li>satu</li>
