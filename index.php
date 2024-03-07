@@ -10,7 +10,7 @@
     <p>sari</p>
     <ul>
         <li>satu</li>
-        <li>dua</li>
+        <li>kolaborasi</li>
     </ul>
 </body>
 </html>
