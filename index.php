@@ -9,7 +9,7 @@
     <h1>hello say</h1>
     <p>sari</p>
     <ul>
-        <li>satu</li>
+        <li>nisa</li>
         <li>kolaborasi</li>
     </ul>
 </body>
